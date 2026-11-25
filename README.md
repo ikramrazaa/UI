@@ -2,7 +2,7 @@
 
 ### Senior UI / Frontend Developer
 
-I am a UI / Frontend Developer with 12+ years of experience building responsive, accessible, and user-friendly web applications.
+I am a UI / Frontend Developer with 11+ years of experience building responsive, accessible, and user-friendly web applications.
 
 ### Technical Skills
 
